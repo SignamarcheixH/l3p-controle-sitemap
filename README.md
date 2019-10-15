@@ -2,4 +2,4 @@
 
 ## What is this ?
 
-An exam took in 2018. It's a Java exercice about sitemaps.
+An exam took in 2018. It's a Java exercise about sitemaps.
